@@ -206,17 +206,6 @@ Ticari Ürün Numarası : 8690105000382
           </div>
         </div>
       </div>
-
-      <footer
-        style={{
-          textAlign: "center",
-          marginTop: "40px",
-          fontSize: "14px",
-          color: "#6c757d",
-        }}
-      >
-        © 2025 QR Kod Oluşturucu | Modern tasarım
-      </footer>
     </div>
   );
 }
